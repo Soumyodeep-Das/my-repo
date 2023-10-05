@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
 
 	printf("Welcome to GitHub!!");
+	printf("Testing");
 	return 0;
 }
